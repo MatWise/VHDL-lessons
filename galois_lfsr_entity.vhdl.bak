@@ -1,0 +1,10 @@
+library ieee; use ieee.std_logic_1164.all;
+
+entity galois_lfsr is
+  port(
+    clk: in std_logic;
+    res_n: std_logic;
+    reset: std_logic;
+    fb: std_logic_vector(7 downto 1);
+    q: std_logic_vector(7 downto 0));
+end entity galois_lfsr;

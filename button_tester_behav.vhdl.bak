@@ -1,0 +1,10 @@
+architecture behav of button_tester is
+begin
+  process is
+  begin
+    tx_n <= '1';
+    wait for 94ns;
+    tx_n <= '0';
+    wait for 48ns;
+  end process;
+end architecture behav;

@@ -1,0 +1,5 @@
+architecture behav of timer is
+begin
+
+
+end architecture behav;

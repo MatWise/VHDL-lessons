@@ -1,0 +1,277 @@
+/u/home/plab/st141467/Senso/button_tester_behav.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/button_tester_behav.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling architecture behav of button_tester
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity button_tester
+
+} {} {}} /u/home/plab/st141467/Senso/reset_counter_behav.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/reset_counter_behav.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling architecture behav of reset_counter
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity reset_counter
+
+} {} {}} /u/home/plab/st141467/Senso/button_behav.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/button_behav.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling architecture behav of button
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity button
+
+} {} {}} /u/home/plab/st141467/Senso/clk_res_gen_behav.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/clk_res_gen_behav.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling architecture behav of clk_res_gen
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity clk_res_gen
+
+} {} {}} /u/home/plab/st141467/Senso/galois_analyzer_behav.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/galois_analyzer_behav.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling architecture behav of analyzer
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity analyzer
+
+} {} {}} /u/home/plab/st141467/Senso/galois_lfsr_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/galois_lfsr_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity galois_lfsr
+
+} {} {}} /u/home/plab/st141467/Senso/random_tb_struct.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/random_tb_struct.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture struct of random_tb
+-- Loading entity random_tb
+-- Loading entity clk_res_gen
+-- Loading entity random_tester
+-- Loading entity random
+-- Loading entity random_analyzer
+
+} {} {}} /u/home/plab/st141467/Senso/random_analyzer_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/random_analyzer_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity random_analyzer
+
+} {} {}} /u/home/plab/st141467/Senso/random_tb_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/random_tb_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling entity random_tb
+
+} {} {}} /u/home/plab/st141467/Senso/galois_lfsr_behav.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/galois_lfsr_behav.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling architecture behav of galois_lfsr
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity galois_lfsr
+
+} {} {}} /u/home/plab/st141467/Senso/input_processor_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/input_processor_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity input_processor
+
+} {} {}} /u/home/plab/st141467/Senso/counter_tester_behav.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/counter_tester_behav.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling architecture behav of counter_tester
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity counter_tester
+
+} {} {}} /u/home/plab/st141467/Senso/random_tester_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/random_tester_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity random_tester
+
+} {} {}} /u/home/plab/st141467/Senso/input_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/input_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity input
+
+} {} {}} /u/home/plab/st141467/Senso/input_struct.vhdl {0 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/input_struct.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling architecture struct of input
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity input
+-- Loading entity button
+** Error: (vcom-11) Could not find work.input_processor.
+** Error (suppressible): /u/home/plab/st141467/Senso/input_struct.vhdl(34): (vcom-1195) Cannot find expanded name "work.input_processor".
+** Error: /u/home/plab/st141467/Senso/input_struct.vhdl(34): Unknown expanded name.
+** Note: /u/home/plab/st141467/Senso/input_struct.vhdl(39): VHDL Compiler exiting
+
+} {9.0 10.0 11.0 12.0} {}} /u/home/plab/st141467/Senso/random_tester_behav.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/random_tester_behav.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling architecture behav of random_tester
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity random_tester
+
+} {} {}} /u/home/plab/st141467/Senso/button_tb_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/button_tb_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling entity button_tb
+
+} {} {}} /u/home/plab/st141467/Senso/button_tb_struct.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/button_tb_struct.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture struct of button_tb
+-- Loading entity button_tb
+-- Loading entity clk_res_gen
+-- Loading entity button
+-- Loading entity button_tester
+
+} {} {}} /u/home/plab/st141467/Senso/counter_behav.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/counter_behav.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling architecture behav of counter
+-- Loading entity counter
+
+} {} {}} /u/home/plab/st141467/Senso/button_tester_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/button_tester_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity button_tester
+
+} {} {}} /u/home/plab/st141467/Senso/galois_lfsr_tb_struct.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/galois_lfsr_tb_struct.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture struct of galois_lfsr_tb
+-- Loading entity galois_lfsr_tb
+-- Loading entity clk_res_gen
+-- Loading entity galois_tester
+-- Loading entity galois_lfsr
+-- Loading entity galois_analyzer
+
+} {} {}} /u/home/plab/st141467/Senso/galois_lfsr_tb_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/galois_lfsr_tb_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling entity galois_lfsr_tb
+
+} {} {}} /u/home/plab/st141467/Senso/reset_counter_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/reset_counter_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reset_counter
+
+} {} {}} /u/home/plab/st141467/Senso/button_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/button_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity button
+
+} {} {}} /u/home/plab/st141467/Senso/clk_res_gen_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/clk_res_gen_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity clk_res_gen
+
+} {} {}} /u/home/plab/st141467/Senso/galois_analyzer_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/galois_analyzer_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity galois_analyzer
+
+} {} {}} /u/home/plab/st141467/Senso/galois_tester_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/galois_tester_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity galois_tester
+
+} {} {}} /u/home/plab/st141467/Senso/counter_tb_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/counter_tb_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling entity counter_tb
+
+} {} {}} /u/home/plab/st141467/Senso/counter_tb_struct.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/counter_tb_struct.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture struct of counter_tb
+-- Loading entity counter_tb
+-- Loading entity clk_res_gen
+-- Loading entity counter_tester
+-- Loading entity counter
+
+} {} {}} /u/home/plab/st141467/Senso/galois_tester_behav.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/galois_tester_behav.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling architecture behav of galois_tester
+-- Loading entity galois_tester
+
+} {} {}} /u/home/plab/st141467/Senso/counter_tester_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/counter_tester_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity counter_tester
+
+} {} {}} /u/home/plab/st141467/Senso/random_analyzer_behav.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/random_analyzer_behav.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Compiling architecture behav of random_analyzer
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity random_analyzer
+
+} {} {}} /u/home/plab/st141467/Senso/counter_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/counter_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity counter
+
+} {} {}} /u/home/plab/st141467/Senso/random_entity.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/random_entity.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity random
+
+} {} {}} /u/home/plab/st141467/Senso/random_behav.vhdl {1 {vcom -work work -2002 -explicit -vopt -stats=none /u/home/plab/st141467/Senso/random_behav.vhdl
+Model Technology ModelSim SE-64 vcom 2019.3 Compiler 2019.07 Jul 24 2019
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling architecture behav of random
+-- Loading entity random
+
+} {} {}}

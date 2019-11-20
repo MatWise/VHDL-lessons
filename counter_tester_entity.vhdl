@@ -1,0 +1,9 @@
+library ieee; use ieee.std_logic_1164.all;
+
+entity counter_tester is
+port(
+  clk, res_n: in std_logic;
+  inc_step, res_step: out std_logic;
+  inc_score, res_score: out std_logic);
+end entity counter_tester;
+  

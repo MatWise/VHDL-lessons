@@ -1,0 +1,220 @@
+# //  ModelSim SE-64 2019.3 Jul 24 2019 Linux 4.19.0-p1-64
+# //
+# //  Copyright 1991-2019 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading project Senso
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl was successful.
+# Compile of analyzer_behav.vhdl was successful.
+# Compile of analyzer_entity.vhdl was successful.
+# Compile of tester_entity.vhdl was successful.
+# Compile of tester_behav.vhdl was successful.
+# Compile of galois_lfsr_tb_struct.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_behav.vhdl was successful.
+# 12 compiles, 0 failed with no errors.
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl was successful.
+# Compile of analyzer_behav.vhdl was successful.
+# Compile of analyzer_entity.vhdl was successful.
+# Compile of tester_entity.vhdl was successful.
+# Compile of tester_behav.vhdl was successful.
+# Compile of galois_lfsr_tb_struct.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_behav.vhdl was successful.
+# 12 compiles, 0 failed with no errors.
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl was successful.
+# Compile of analyzer_behav.vhdl was successful.
+# Compile of analyzer_entity.vhdl was successful.
+# Compile of tester_entity.vhdl was successful.
+# Compile of tester_behav.vhdl was successful.
+# Compile of galois_lfsr_tb_struct.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_behav.vhdl failed with 3 errors.
+# 12 compiles, 1 failed with 3 errors.
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl was successful.
+# Compile of analyzer_behav.vhdl was successful.
+# Compile of analyzer_entity.vhdl was successful.
+# Compile of tester_entity.vhdl was successful.
+# Compile of tester_behav.vhdl was successful.
+# Compile of galois_lfsr_tb_struct.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_behav.vhdl was successful.
+# 12 compiles, 0 failed with no errors.
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl was successful.
+# Compile of analyzer_behav.vhdl was successful.
+# Compile of analyzer_entity.vhdl was successful.
+# Compile of tester_entity.vhdl was successful.
+# Compile of tester_behav.vhdl was successful.
+# Compile of galois_lfsr_tb_struct.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_behav.vhdl was successful.
+# 12 compiles, 0 failed with no errors.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl was successful.
+# Compile of analyzer_behav.vhdl was successful.
+# Compile of analyzer_entity.vhdl was successful.
+# Compile of tester_entity.vhdl was successful.
+# Compile of tester_behav.vhdl was successful.
+# Compile of galois_lfsr_tb_struct.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_behav.vhdl was successful.
+# Compile of random_tb_entity.vhdl failed with 1 errors.
+# Compile of random_tb_struct.vhdl failed with 1 errors.
+# 14 compiles, 2 failed with 2 errors.
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl was successful.
+# Compile of analyzer_behav.vhdl was successful.
+# Compile of analyzer_entity.vhdl was successful.
+# Compile of tester_entity.vhdl failed with 1 errors.
+# Compile of tester_behav.vhdl failed with 1 errors.
+# Compile of galois_lfsr_tb_struct.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_behav.vhdl was successful.
+# Compile of random_tb_entity.vhdl failed with 1 errors.
+# Compile of random_tb_struct.vhdl failed with 1 errors.
+# 14 compiles, 4 failed with 4 errors.
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl was successful.
+# Compile of analyzer_behav.vhdl was successful.
+# Compile of analyzer_entity.vhdl was successful.
+# Compile of tester_entity.vhdl was successful.
+# Compile of tester_behav.vhdl was successful.
+# Compile of galois_lfsr_tb_struct.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_behav.vhdl was successful.
+# Compile of random_tb_entity.vhdl failed with 1 errors.
+# Compile of random_tb_struct.vhdl failed with 1 errors.
+# 14 compiles, 2 failed with 2 errors.
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl was successful.
+# Compile of analyzer_behav.vhdl was successful.
+# Compile of analyzer_entity.vhdl was successful.
+# Compile of tester_entity.vhdl was successful.
+# Compile of tester_behav.vhdl was successful.
+# Compile of galois_lfsr_tb_struct.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_behav.vhdl was successful.
+# Compile of random_tb_entity.vhdl was successful.
+# Compile of random_tb_struct.vhdl failed with 1 errors.
+# 14 compiles, 1 failed with 1 error.
+# Error opening /u/home/plab/st141467/tester_behav.vhdl
+# Path name '/u/home/plab/st141467/tester_behav.vhdl' doesn't exist.
+# Error opening /u/home/plab/st141467/random_tb_entity.vhdl
+# Path name '/u/home/plab/st141467/random_tb_entity.vhdl' doesn't exist.
+# Project file /u/home/plab/st141467/Senso.mpf is write protected, data cannot be saved.
+# Unable to save project.
+# Project file /u/home/plab/st141467/Senso.mpf is write protected, data cannot be saved.
+# Unable to save project.
+# Project file /u/home/plab/st141467/Senso.mpf is write protected, data cannot be saved.
+# Unable to save project.
+# Project file /u/home/plab/st141467/Senso.mpf is write protected, data cannot be saved.
+# Unable to save project.
+# Project file /u/home/plab/st141467/Senso.mpf is write protected, data cannot be saved.
+# Unable to save project.
+# reading /net/arch/opt/eda/modelsim/2019.3/modeltech/linux_x86_64/../modelsim.ini
+# Loading project Senso
+# Error opening /u/home/plab/st141467/clk_res_gen_behav.vhdl
+# Path name '/u/home/plab/st141467/clk_res_gen_behav.vhdl' doesn't exist.
+# Compile of clk_res_gen_behav.vhdl failed with 1 errors.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of galois_analyzer_behav.vhdl failed with 1 errors.
+# Compile of galois_analyzer_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl failed with 1 errors.
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of galois_lfsr_tb_struct.vhdl failed with 3 errors.
+# Compile of galois_tester_behav.vhdl failed with 1 errors.
+# Compile of galois_tester_entity.vhdl was successful.
+# Compile of random_behav.vhdl failed with 1 errors.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_tb_entity.vhdl was successful.
+# Compile of random_tb_struct.vhdl was successful.
+# 14 compiles, 6 failed with 8 errors.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of galois_analyzer_behav.vhdl was successful.
+# Compile of galois_analyzer_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl was successful.
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of galois_lfsr_tb_struct.vhdl failed with 3 errors.
+# Compile of galois_tester_behav.vhdl was successful.
+# Compile of galois_tester_entity.vhdl was successful.
+# Compile of random_behav.vhdl was successful.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_tb_entity.vhdl was successful.
+# Compile of random_tb_struct.vhdl was successful.
+# 14 compiles, 1 failed with 3 errors.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of galois_analyzer_behav.vhdl was successful.
+# Compile of galois_analyzer_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl was successful.
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of galois_lfsr_tb_struct.vhdl failed with 3 errors.
+# Compile of galois_tester_behav.vhdl was successful.
+# Compile of galois_tester_entity.vhdl was successful.
+# Compile of random_behav.vhdl was successful.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_tb_entity.vhdl was successful.
+# Compile of random_tb_struct.vhdl was successful.
+# 14 compiles, 1 failed with 3 errors.
+# Compile of clk_res_gen_behav.vhdl was successful.
+# Compile of clk_res_gen_entity.vhdl was successful.
+# Compile of galois_analyzer_behav.vhdl was successful.
+# Compile of galois_analyzer_entity.vhdl was successful.
+# Compile of galois_lfsr_behav.vhdl was successful.
+# Compile of galois_lfsr_entity.vhdl was successful.
+# Compile of galois_lfsr_tb_entity.vhdl was successful.
+# Compile of galois_lfsr_tb_struct.vhdl was successful.
+# Compile of galois_tester_behav.vhdl was successful.
+# Compile of galois_tester_entity.vhdl was successful.
+# Compile of random_behav.vhdl was successful.
+# Compile of random_entity.vhdl was successful.
+# Compile of random_tb_entity.vhdl was successful.
+# Compile of random_tb_struct.vhdl was successful.
+# 14 compiles, 0 failed with no errors.

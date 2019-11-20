@@ -1,0 +1,25 @@
+library ieee; use ieee.numeric_std.all;
+
+architecture behav of tester is
+
+begin
+  process is
+  begin
+    if res_n ='0' then
+      fb <= "0000000";
+      reset <= '0';
+    else
+        for i in 0 to 127 loop
+          report "Current number: " & integer'image(i);
+          fb <= std_logic_vector(to_unsigned(i, 7));
+          reset <= '1';
+          wait on clk until clk = '1';
+          reset <= '0';
+          for j in 0 to 1000 loop
+            wait on clk until clk = '1';
+          end loop;
+        end loop;
+    end if;
+  end process;
+end architecture behav;
+    
