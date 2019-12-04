@@ -6,5 +6,6 @@ entity timer is
     start_timer: in std_logic;
     dec_duration: in std_logic;
     res_duration: in std_logic;
-    timer_expired: out std_logic);
+    timer_expired: out std_logic;
+    res_timer: in std_logic);
 end entity timer;

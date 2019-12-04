@@ -4,8 +4,8 @@ begin
   begin
     key_valid <= '1';
     case shortened_keys is
-    when "0000" =>
-      key_valid <= '0'; -- not valid if no button was pressed.
+    when "0001" =>
+      key_color <= "00"; -- red
     when "0010" =>
       key_color <= "01"; -- yellow
     when "0100" =>
@@ -13,7 +13,7 @@ begin
     when "1000" =>
       key_color <= "11"; -- blue
     when others =>
-      key_color <= "00"; -- red (use as default)
+      key_valid <= '0'; -- not valid if no button was pressed or multiple simultaneously.
     end case;
   end process;
 end architecture behav;
