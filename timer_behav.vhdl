@@ -16,18 +16,18 @@ begin
     else
       if clk'event and clk = '1' then
         if res_timer = '1' then
-          cnt := ns;
+          cnt := 0 ns;
           timer_started := '0';
         end if;
         if start_timer = '1' then
           timer_started := '1';
         end if;
-        if timer_started = '1' then
-          cnt := cnt + clk_duration;
-        end if;
         if cnt >= d then
           timer_started := '0';
           cnt := 0 ns;
+        end if;
+        if timer_started = '1' then
+          cnt := cnt + clk_duration;
         end if;
       end if;
       counter <= cnt;
@@ -35,8 +35,8 @@ begin
   end process counter_inc;
 
   duration_mod: process(clk, res_n) is
-    constant std_d: time := 500 ms;
-    constant duration_decrease: time := 100 ms;
+    constant std_d: time := 1 ms; --1000 ms;
+    constant duration_decrease: time := 100 us; --100 ms;
   begin
     if res_n = '0' then
       d <= std_d;
